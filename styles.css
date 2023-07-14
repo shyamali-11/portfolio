@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+}
+
+h1 {
+  font-family: 'Tiro Devanagari Hindi', serif;
+  color: #61764B;
+  font-size: 562.5%;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Lora', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #61764B;
+}
+
+h3 {
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  width:50%;
+  margin:20px auto 0;
+
+}
+
+p {
+  font-family: 'Baloo 2', cursive;
+  line-height: 2;
+  width:50%;
+  margin:auto;
+  color:#285430;
+}
+
+a {
+  color: #395144;
+  text-decoration: none;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #DEF5E5;
+  border-width: 4px;
+  width: 80px;
+  margin: 40px auto;
+}
+
+a:hover {
+  color: #A9AF7E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-image1 {
+  border-radius: 10%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  width: 25%;
+
+}
+
+.skill-image2 {
+  border-radius: 10%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  width: 25%;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  height: 100px;
+}
+
+.middle {
+  color: #7D8F69;
+}
+
+.topcontainer {
+  background-color: #BAD1C2;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 350px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 350px
+}
+
+.middle-container {
+
+    margin:80px 0 60px;
+}
+
+.contact-me {
+  padding-bottom: 10px;
+}
+.contact-me-p{
+  padding-top:19px;
+}
+.btn{
+
+  width:15%;
+  margin:20px auto 30px;
+  background-color: #A4BE7B;
+  padding: 5px 0;
+  border-radius: 8px;
+
+}
+
+.btn:hover{
+  background-color: #5F8D4E;
+  transition: all 0.3s ease-in-out 0s;
+}
+.btn-img{
+    background-color: #A4BE7B;
+    height:20px;
+    width:20px;
+    margin: auto;
+}
+.bottom-container {
+  background-color: #BAD1C2;
+  padding-top: 10px;
+}
+
+
+.web {
+  text-decoration: underline;
+}
